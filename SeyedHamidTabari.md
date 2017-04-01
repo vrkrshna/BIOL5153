@@ -1,8 +1,13 @@
 Seyed Hamid Tabari
 ==================
 Department of Chemistry
+-------------
+
 University of Arkansas
+-------------
+
 #####shtabari@uark.edu
+-------------
 
 
 Research Interest  
