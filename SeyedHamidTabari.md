@@ -6,7 +6,7 @@ Department of Chemistry
 University of Arkansas
 -------------
 
-#####shtabari@uark.edu
+shtabari@uark.edu
 -------------
 
 
